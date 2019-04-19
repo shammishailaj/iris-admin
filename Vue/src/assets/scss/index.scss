@@ -1,0 +1,21 @@
+@import '../iconfont/playmate/playmate.css';
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+  font-family: system-ui;
+}
+
+body {
+  background: #f0f7f8;
+}
+
+a {
+  color: #7aabf0;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
