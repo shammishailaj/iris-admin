@@ -1,7 +1,7 @@
 介绍
-IRIS-Admin是一款基于GOlang+Vue的极速后台开发框架。
+#IRIS-Admin是一款基于GOlang+Vue的极速后台开发框架。
 
-主要特性
+#主要特性
 基于Auth验证的权限管理系统
 
 支持无限级父子级权限继承，父级的管理员可任意增删改子级管理员及权限设置
@@ -30,3 +30,10 @@ IRIS-Admin是一款基于GOlang+Vue的极速后台开发框架。
 第三方登录(QQ、微信、微博)整合
 第三方支付(微信、支付宝)无缝整合，微信支持PC端扫码支付
 丰富的插件应用市场
+
+
+
+https://github.com/yanhao1/iris-admin/blob/master/1555649255413.jpg
+
+
+https://github.com/yanhao1/iris-admin/blob/master/WechatIMG4.png
